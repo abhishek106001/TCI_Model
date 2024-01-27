@@ -1,0 +1,4 @@
+0 No Theft
+1 Theft Detected
+2 No Connection
+3 Camera Deviated

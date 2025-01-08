@@ -1,7 +1,13 @@
+# Team TransCoal Innovators 
+ ![SIH_1](https://github.com/user-attachments/assets/472f7c6c-69c6-453d-a1a1-912e36b88826)
+
+ ## Problem Statement
+ - As there is no existing platform to track and monitor the coal in different modes of transport like train, trucks and ships
+
 # Transcoal Innovators (TCI) Digital Platform for Coal Transportation.
-Let's enhance the features section of the README for the Transcoal Innovators (TCI) Digital Platform by adding the ML model implementation for security purposes
+The Transcoal Innovators (TCI) Digital Platform by adding the ML model implementation for security purposes
 ## Overview
-- The TCI Digital Platform is designed to track and monitor coal transportation. It provides real-time data on shipments, routes, and delivery status.
+- The TCI Digital Platform is designed to track and monitor coal transportatio n. It provides real-time data on shipments, routes, and delivery status.
 - Unified Digital Platform enables monitoring the Coal from Railways, waterways and Roadways.
 ## Features
 1. **Real-time Tracking:** Monitor coal shipments from source to destination.

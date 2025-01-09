@@ -4,6 +4,9 @@
  ## Problem Statement
  - As there is no existing platform to track and monitor the coal in different modes of transport like train, trucks and ships
 
+## Solution
+- As a solution, we built an digital platform integrated with the ML model for the supervision of the coal transportation and Security 
+
 # Transcoal Innovators (TCI) Digital Platform for Coal Transportation.
 The Transcoal Innovators (TCI) Digital Platform by adding the ML model implementation for security purposes
 ## Overview
